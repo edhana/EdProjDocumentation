@@ -59,8 +59,36 @@
 <node CREATED="1286923396345" FOLDED="true" ID="ID_1035231979" MODIFIED="1286928385337" TEXT="Empreendedores">
 <node CREATED="1286925438297" ID="ID_350126602" MODIFIED="1286928380169" TEXT="A SEA Tecnologia possui uma equipe altamente qualificada para a gest&#xe3;o e o desenvolvimento de novos produtos que envolvam pesquisa na &#xe1;rea de tecnologia. A equipe de ger&#xea;ncia da empresa &#xe9; composta pelos seus s&#xf3;cios fundadores:&#xa;&#xa;Alexandre Gomes&#xa;Mestre em Computa&#xe7;&#xe3;o pela Universidade de Bras&#xed;lia, Bacharel em Ci&#xea;ncia da Computa&#xe7;&#xe3;o pela Universidade de Bras&#xed;lia com &#xea;nfase a sistemas corporativos de miss&#xe3;o cr&#xed;tica baseados em componentes. Entusiasta da plataforma Java, atua como arquiteto de sistemas baseados no framework J2EE , dedicando-se nos &#xfa;ltimos dois anos ao estudo e desenvolvimento de aplica&#xe7;&#xf5;es para dispositivos com recursos reduzidos, principalmente os baseados no framework Java Micro Edition. Ministra palestras em congressos e semin&#xe1;rios difundindo a cultura e tecnologia de aplica&#xe7;&#xf5;es em dispositivos gen&#xe9;ricos.&#xa;&#xa;Cl&#xe9;diston Santos&#xa;Mestrando em Ci&#xea;ncia da Informa&#xe7;&#xe3;o pela Universidade de Bras&#xed;lia &#x2013; UnB, Bacharel em Ci&#xea;ncia da Computa&#xe7;&#xe3;o pela Universidade Cat&#xf3;lica de Bras&#xed;lia com especializa&#xe7;&#xe3;o em metodologia, ger&#xea;ncia de requisitos e smart cards. Nos &#xfa;ltimos anos dedicou-se a &#xe1;rea de relacionamento, gera&#xe7;&#xe3;o de neg&#xf3;cios e implementa&#xe7;&#xe3;o de projetos de transfer&#xea;ncia de tecnologia, Rational e Sun, incluindo mentoring, treinamento e consultoria. Participa&#xe7;&#xe3;o em licita&#xe7;&#xf5;es de grande porte, identifica&#xe7;&#xe3;o do mercado, mapeamento e atua&#xe7;&#xe3;o em vendas corporativas. Instrutor oficial, Rational University, dos cursos Rational Unified Process Fundamentals, Implementing Rational Unified Process, Principles of Managing Iterative Development, Requirements Management with Use Cases e Requisite Pro Fundamentals. Certificado pela Rational Corporation como consultor oficial em RUP e ger&#xea;ncia de requisitos.&#xa;&#xa;Leonardo Antonialli&#xa;MBA em Gest&#xe3;o Empresarial pela Funda&#xe7;&#xe3;o Get&#xfa;lio Vargas, Bacharel em Desenho Industrial com habilita&#xe7;&#xe3;o em Programa&#xe7;&#xe3;o Visual pela Universidade de Bras&#xed;lia. Nos &#xfa;ltimos anos adquiriu experi&#xea;ncia em sistemas de miss&#xe3;o cr&#xed;tica como Projetista de Interface, adaptando t&#xe9;cnicas de ergonomia de software a metodologia de desenvolvimento de sistemas RUP. Possui certifica&#xe7;&#xe3;o como Web Designer pela Macromedia, estando habilitado ao desenvolvimento de projetos com suas tr&#xea;s principais ferramentas (Flash - anima&#xe7;&#xe3;o vetorial, Fireworks - edi&#xe7;&#xe3;o de imagens e Dreamweaver - edi&#xe7;&#xe3;o de HTML).&#xa;"/>
 </node>
-<node CREATED="1286923402406" FOLDED="true" ID="ID_260727520" MODIFIED="1286928514225" TEXT="Produtos Servi&#xe7;os e Tecnologia">
-<node CREATED="1286928393917" ID="ID_961332355" MODIFIED="1286928512152" TEXT="A SEA Tecnologia pretende oferecer um produto agregado a v&#xe1;rias formas de servi&#xe7;o. O Produto consiste em um sistema f&#xed;sico reconhecedor de voz e interpretador de comandos que possa possua interface para comunica&#xe7;&#xe3;o com outros dispositivos diversos, como ve&#xed;culos ou centrais de controle de seguran&#xe7;a.  &#xa;&#xa;O Servi&#xe7;o paira sobre funcionalidades..."/>
+<node CREATED="1286927950254" ID="ID_61947805" MODIFIED="1286960954498" TEXT="O Produto/Servi&#xe7;o">
+<node CREATED="1286927972452" ID="ID_1527852885" MODIFIED="1286927975426" TEXT="Caracter&#xed;sticas">
+<node CREATED="1286960921385" ID="ID_1145768154" MODIFIED="1286960925189" TEXT="A SEA Tecnologia pretende oferecer um produto agregado a v&#xe1;rias formas de servi&#xe7;o. O Produto consiste em um sistema f&#xed;sico reconhecedor de voz e interpretador de comandos que possa possua interface para comunica&#xe7;&#xe3;o com outros dispositivos diversos, como ve&#xed;culos ou centrais de controle de seguran&#xe7;a.  O Servi&#xe7;o paira sobre as funcionalidades de a&#xe7;&#xe3;o que possam ser integradas no produto, como v&#xed;nculos com sitios de email, sitios de compras/supermercado, &#xf3;rg&#xe3;os de emerg&#xea;ncia e assist&#xea;ncia m&#xe9;dica/hospitalar, servi&#xe7;os de fam&#xe1;cia, alimenta&#xe7;&#xe3;o e entretenimento."/>
+</node>
+<node CREATED="1286927975805" ID="ID_1228358243" MODIFIED="1286961554215">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      O produto DigaME pretende diferenciar-se das alternativas existentes no mercado por usar tecnologia de reconhecimento natural de linguagem, ou seja, por tornar a inter&#341;eta&#231;&#227;o de comandos pelo reconhecedor de voz muito mais parecida com a forma coloquial de comunica&#231;&#227;o. Ou seja, o produto ser&#225; capaz de reconhecer comandos dentro de um contexto de intera&#231;&#227;o muito mais humano do que o que existe atualmente.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      De forma Pr&#225;tica isso representa dizer primeiramente que o usu&#225;rio do produto n&#227;o necessitar&#225; de nenhum disparador f&#237;sico, como um bot&#227;o ou interruptor, para que o sistema comece a funcionar. O usu&#225;rio deve simplesmente pronunciar um nome ou uma palavra chave para que o sistema comece a escut&#225;-lo. Al&#233;m disso os comandos devem seguir um padr&#227;o de linguagem livre, ou seja, os comandos podem ser dados da mesma forma que seriam dados se o usu&#225;rio estivesse se comunicando com outra pessoa.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      O tipo de tecnologia envolvida para solu&#231;&#227;o desse problema &#233; bem comum, e j&#225; &#233; pesquisada e utilizada a mais de 50 anos, mas o tipo de aplica&#231;&#227;o proposto dentro de um sistema de reconhecimento de voz pr&#233;-desenvolvido constitui em uma iniciativa inovadora no mercado de sistemas de apoio a pessoas portadoras de necessidades especiais.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1286927983883" ID="ID_1002987396" MODIFIED="1286927989062" TEXT="Pesquisa e Desenvolvimento"/>
 </node>
 <node CREATED="1286923410464" ID="ID_122508776" MODIFIED="1286923414810" TEXT="Mercado Potencial"/>
 <node CREATED="1286923417247" ID="ID_537249031" MODIFIED="1286923422539" TEXT="Elementos de Diferencia&#xe7;&#xe3;o"/>
@@ -68,8 +96,10 @@
 <node CREATED="1286923429732" ID="ID_1927459937" MODIFIED="1286923446640" TEXT="Rentabilidade e Proje&#xe7;&#xf5;es financeiras"/>
 <node CREATED="1286923449328" ID="ID_489090038" MODIFIED="1286923460277" TEXT="Necessidades de Financiamento"/>
 </node>
-<node CREATED="1286927950254" FOLDED="true" ID="ID_1560996658" MODIFIED="1286928065329" TEXT="O Produto/Servi&#xe7;o">
-<node CREATED="1286927972452" ID="ID_983394196" MODIFIED="1286927975426" TEXT="Caracter&#xed;sticas"/>
+<node CREATED="1286927950254" ID="ID_1560996658" MODIFIED="1286960912697" TEXT="O Produto/Servi&#xe7;o">
+<node CREATED="1286927972452" ID="ID_983394196" MODIFIED="1286927975426" TEXT="Caracter&#xed;sticas">
+<node CREATED="1286960921385" ID="ID_1414039292" MODIFIED="1286960925189" TEXT="A SEA Tecnologia pretende oferecer um produto agregado a v&#xe1;rias formas de servi&#xe7;o. O Produto consiste em um sistema f&#xed;sico reconhecedor de voz e interpretador de comandos que possa possua interface para comunica&#xe7;&#xe3;o com outros dispositivos diversos, como ve&#xed;culos ou centrais de controle de seguran&#xe7;a.  O Servi&#xe7;o paira sobre as funcionalidades de a&#xe7;&#xe3;o que possam ser integradas no produto, como v&#xed;nculos com sitios de email, sitios de compras/supermercado, &#xf3;rg&#xe3;os de emerg&#xea;ncia e assist&#xea;ncia m&#xe9;dica/hospitalar, servi&#xe7;os de fam&#xe1;cia, alimenta&#xe7;&#xe3;o e entretenimento."/>
+</node>
 <node CREATED="1286927975805" ID="ID_1706903461" MODIFIED="1286927981065" TEXT="Diferencial Tecnol&#xf3;gico"/>
 <node CREATED="1286927983883" ID="ID_874947806" MODIFIED="1286927989062" TEXT="Pesquisa e Desenvolvimento"/>
 </node>
