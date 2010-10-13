@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1286449883836" ID="ID_1774648915" MODIFIED="1286451204335" TEXT="DigaME">
-<node CREATED="1286451182946" ID="ID_213533557" MODIFIED="1286451189905" POSITION="left" TEXT="Potencial da SEA">
+<node CREATED="1286451182946" FOLDED="true" ID="ID_213533557" MODIFIED="1286928057146" POSITION="left" TEXT="Potencial da SEA">
 <node CREATED="1286449935189" ID="ID_1905109637" MODIFIED="1286449955883" TEXT="Universidade de Bras&#xed;lia"/>
 <node CREATED="1286449956413" ID="ID_1573964798" MODIFIED="1286449969742" TEXT="Metodologia"/>
 <node CREATED="1286449972670" ID="ID_234481757" MODIFIED="1286449992069" TEXT="Meios de Produ&#xe7;&#xe3;o">
@@ -11,7 +11,8 @@
 </node>
 <node CREATED="1286449913232" ID="ID_742284304" MODIFIED="1286449934057" TEXT="PARCERIAS Empresas Estrangeiras"/>
 </node>
-<node CREATED="1286451207232" ID="ID_1171241017" MODIFIED="1286451216398" POSITION="right" TEXT="Impactos no Mercado">
+<node CREATED="1286928038802" FOLDED="true" ID="ID_1160916055" MODIFIED="1286928050305" POSITION="right" TEXT="Formul&#xe1;rio FAP">
+<node CREATED="1286451207232" FOLDED="true" HGAP="16" ID="ID_1171241017" MODIFIED="1286923349649" TEXT="Impactos no Mercado" VSHIFT="-31">
 <node CREATED="1286452017159" ID="ID_1790190198" MODIFIED="1286452452988" TEXT="Crescimento da SEA">
 <node CREATED="1286452361728" ID="ID_569095446" MODIFIED="1286452370340" TEXT="Porcentagem de Crescimento Esperado"/>
 <node CREATED="1286452370851" ID="ID_829723906" MODIFIED="1286452379985" TEXT="Quantidade de vagas abertas para o novo projeto">
@@ -48,6 +49,61 @@
 </node>
 </node>
 <node CREATED="1286452046662" ID="ID_1456676863" MODIFIED="1286452053386" TEXT="Extrapolar o nicho dos PNEs"/>
+</node>
+</node>
+<node CREATED="1286923338205" ID="ID_773247079" MODIFIED="1286923351120" POSITION="right" TEXT="Plano de Neg&#xf3;cios" VSHIFT="10">
+<node CREATED="1286923352593" ID="ID_636751006" MODIFIED="1286928350047" TEXT="Sum&#xe1;rio Executivo">
+<node CREATED="1286923372873" FOLDED="true" ID="ID_831865101" MODIFIED="1286928383809" TEXT="Enunciado do Projeto">
+<node CREATED="1286923481880" ID="ID_1302591273" MODIFIED="1286925432160" TEXT="Vivemos uma &#xe9;poca em que a sociedade busca tratar de forma mais justa todos os indiv&#xed;duos incluindo as pessoas portadoras de necessidades especiais(PNE&#x2019;s). Governo e sociedade est&#xe3;o empenhados em trabalhar de forma conjunta em solu&#xe7;&#xf5;es que caminham no sentido de tornar a intera&#xe7;&#xe3;o dessas pessoas mais independente e acess&#xed;vel. Caminhando nesse mesmo sentido a SEA Tecnologia vem por meio deste plano de neg&#xf3;cios apresentar a os estudos e an&#xe1;lise da cria&#xe7;&#xe3;o de um sistema de reconhecimento de voz apoiado em interpreta&#xe7;&#xe3;o por linguagem natural, ou seja, reconhecimento de voz utilizando comandos humanamente compreens&#xed;veis, e comumente usados em nossa comunica&#xe7;&#xe3;o coloquial. Esse por si s&#xf3; caracteriza-se como um produto inovador que chama a aten&#xe7;&#xe3;o tanto por sua funcionalidade b&#xe1;sica, quanto pelas possibilidades de aplica&#xe7;&#xe3;o e gera&#xe7;&#xe3;o de novos produtos e servi&#xe7;os dentro de diversos tipos de ambientes heterog&#xea;nios.&#xa;&#xa;A estrutura do projeto &#xe9; composta pela equipe de desenvolvimento da SEA Tecnologia, consultores ligados &#xe0; empresa e parceiros respons&#xe1;veis pelas tarefas de produ&#xe7;&#xe3;o do dispositivo f&#xed;sico de reconhecimento de voz e pelos servi&#xe7;os de atendimento ao cliente e marketing.&#xa;&#xa;A clientela alvo desse produto ser&#xe3;o os PNEs que tem a habilidade da fala. Dentro deste nicho podemos atender aos deficientes visuais, pessoas com restri&#xe7;&#xf5;es nos seus movimentos, como cadeirantes, entre outros."/>
+</node>
+<node CREATED="1286923396345" FOLDED="true" ID="ID_1035231979" MODIFIED="1286928385337" TEXT="Empreendedores">
+<node CREATED="1286925438297" ID="ID_350126602" MODIFIED="1286928380169" TEXT="A SEA Tecnologia possui uma equipe altamente qualificada para a gest&#xe3;o e o desenvolvimento de novos produtos que envolvam pesquisa na &#xe1;rea de tecnologia. A equipe de ger&#xea;ncia da empresa &#xe9; composta pelos seus s&#xf3;cios fundadores:&#xa;&#xa;Alexandre Gomes&#xa;Mestre em Computa&#xe7;&#xe3;o pela Universidade de Bras&#xed;lia, Bacharel em Ci&#xea;ncia da Computa&#xe7;&#xe3;o pela Universidade de Bras&#xed;lia com &#xea;nfase a sistemas corporativos de miss&#xe3;o cr&#xed;tica baseados em componentes. Entusiasta da plataforma Java, atua como arquiteto de sistemas baseados no framework J2EE , dedicando-se nos &#xfa;ltimos dois anos ao estudo e desenvolvimento de aplica&#xe7;&#xf5;es para dispositivos com recursos reduzidos, principalmente os baseados no framework Java Micro Edition. Ministra palestras em congressos e semin&#xe1;rios difundindo a cultura e tecnologia de aplica&#xe7;&#xf5;es em dispositivos gen&#xe9;ricos.&#xa;&#xa;Cl&#xe9;diston Santos&#xa;Mestrando em Ci&#xea;ncia da Informa&#xe7;&#xe3;o pela Universidade de Bras&#xed;lia &#x2013; UnB, Bacharel em Ci&#xea;ncia da Computa&#xe7;&#xe3;o pela Universidade Cat&#xf3;lica de Bras&#xed;lia com especializa&#xe7;&#xe3;o em metodologia, ger&#xea;ncia de requisitos e smart cards. Nos &#xfa;ltimos anos dedicou-se a &#xe1;rea de relacionamento, gera&#xe7;&#xe3;o de neg&#xf3;cios e implementa&#xe7;&#xe3;o de projetos de transfer&#xea;ncia de tecnologia, Rational e Sun, incluindo mentoring, treinamento e consultoria. Participa&#xe7;&#xe3;o em licita&#xe7;&#xf5;es de grande porte, identifica&#xe7;&#xe3;o do mercado, mapeamento e atua&#xe7;&#xe3;o em vendas corporativas. Instrutor oficial, Rational University, dos cursos Rational Unified Process Fundamentals, Implementing Rational Unified Process, Principles of Managing Iterative Development, Requirements Management with Use Cases e Requisite Pro Fundamentals. Certificado pela Rational Corporation como consultor oficial em RUP e ger&#xea;ncia de requisitos.&#xa;&#xa;Leonardo Antonialli&#xa;MBA em Gest&#xe3;o Empresarial pela Funda&#xe7;&#xe3;o Get&#xfa;lio Vargas, Bacharel em Desenho Industrial com habilita&#xe7;&#xe3;o em Programa&#xe7;&#xe3;o Visual pela Universidade de Bras&#xed;lia. Nos &#xfa;ltimos anos adquiriu experi&#xea;ncia em sistemas de miss&#xe3;o cr&#xed;tica como Projetista de Interface, adaptando t&#xe9;cnicas de ergonomia de software a metodologia de desenvolvimento de sistemas RUP. Possui certifica&#xe7;&#xe3;o como Web Designer pela Macromedia, estando habilitado ao desenvolvimento de projetos com suas tr&#xea;s principais ferramentas (Flash - anima&#xe7;&#xe3;o vetorial, Fireworks - edi&#xe7;&#xe3;o de imagens e Dreamweaver - edi&#xe7;&#xe3;o de HTML).&#xa;"/>
+</node>
+<node CREATED="1286923402406" FOLDED="true" ID="ID_260727520" MODIFIED="1286928514225" TEXT="Produtos Servi&#xe7;os e Tecnologia">
+<node CREATED="1286928393917" ID="ID_961332355" MODIFIED="1286928512152" TEXT="A SEA Tecnologia pretende oferecer um produto agregado a v&#xe1;rias formas de servi&#xe7;o. O Produto consiste em um sistema f&#xed;sico reconhecedor de voz e interpretador de comandos que possa possua interface para comunica&#xe7;&#xe3;o com outros dispositivos diversos, como ve&#xed;culos ou centrais de controle de seguran&#xe7;a.  &#xa;&#xa;O Servi&#xe7;o paira sobre funcionalidades..."/>
+</node>
+<node CREATED="1286923410464" ID="ID_122508776" MODIFIED="1286923414810" TEXT="Mercado Potencial"/>
+<node CREATED="1286923417247" ID="ID_537249031" MODIFIED="1286923422539" TEXT="Elementos de Diferencia&#xe7;&#xe3;o"/>
+<node CREATED="1286923424642" ID="ID_826182244" MODIFIED="1286923427777" TEXT="Projeto de Vendas"/>
+<node CREATED="1286923429732" ID="ID_1927459937" MODIFIED="1286923446640" TEXT="Rentabilidade e Proje&#xe7;&#xf5;es financeiras"/>
+<node CREATED="1286923449328" ID="ID_489090038" MODIFIED="1286923460277" TEXT="Necessidades de Financiamento"/>
+</node>
+<node CREATED="1286927950254" FOLDED="true" ID="ID_1560996658" MODIFIED="1286928065329" TEXT="O Produto/Servi&#xe7;o">
+<node CREATED="1286927972452" ID="ID_983394196" MODIFIED="1286927975426" TEXT="Caracter&#xed;sticas"/>
+<node CREATED="1286927975805" ID="ID_1706903461" MODIFIED="1286927981065" TEXT="Diferencial Tecnol&#xf3;gico"/>
+<node CREATED="1286927983883" ID="ID_874947806" MODIFIED="1286927989062" TEXT="Pesquisa e Desenvolvimento"/>
+</node>
+<node CREATED="1286927997780" FOLDED="true" ID="ID_483873204" MODIFIED="1286928064643" TEXT="O Mercado">
+<node CREATED="1286928002066" ID="ID_879623148" MODIFIED="1286928003813" TEXT="Clientes"/>
+<node CREATED="1286928006421" ID="ID_138893496" MODIFIED="1286928010878" TEXT="Concorrentes"/>
+<node CREATED="1286928011438" ID="ID_180930654" MODIFIED="1286928013677" TEXT="Fornecedores"/>
+<node CREATED="1286928017909" ID="ID_1845762768" MODIFIED="1286928023261" TEXT="Participa&#xe7;&#xe3;o no Mercado"/>
+</node>
+<node CREATED="1286928069911" FOLDED="true" ID="ID_729303183" MODIFIED="1286928179714" TEXT="Capacidade Empresarial">
+<node CREATED="1286928100267" ID="ID_1637396674" MODIFIED="1286928101865" TEXT="Empresa">
+<node CREATED="1286928105423" ID="ID_1285439944" MODIFIED="1286928108858" TEXT="Defini&#xe7;&#xe3;o da Empresa"/>
+<node CREATED="1286928111004" ID="ID_1232956255" MODIFIED="1286928112932" TEXT="Miss&#xe3;o"/>
+<node CREATED="1286928115841" ID="ID_1791919535" MODIFIED="1286928121493" TEXT="Estrutura Organizacional"/>
+<node CREATED="1286928124290" ID="ID_411762082" MODIFIED="1286928126459" TEXT="Parceiros"/>
+</node>
+<node CREATED="1286928132329" ID="ID_376283014" MODIFIED="1286928135139" TEXT="Empreendedores">
+<node CREATED="1286928143997" ID="ID_669736816" MODIFIED="1286928151105" TEXT="Perfil Individual dos S&#xf3;cios"/>
+</node>
+</node>
+<node CREATED="1286928164159" FOLDED="true" ID="ID_852485203" MODIFIED="1286928347834" TEXT="Estrat&#xe9;gia de Neg&#xf3;cio">
+<node CREATED="1286928188322" ID="ID_602673768" MODIFIED="1286928193514" TEXT="Amea&#xe7;as e Oportunidades"/>
+<node CREATED="1286928196673" ID="ID_375514250" MODIFIED="1286928201632" TEXT="Pontos Fortes e Fracos"/>
+<node CREATED="1286928214184" ID="ID_1679810973" MODIFIED="1286928216313" TEXT="Objetivos"/>
+<node CREATED="1286928218871" ID="ID_434901500" MODIFIED="1286928221475" TEXT="Estrat&#xe9;gias"/>
+</node>
+<node CREATED="1286928229950" FOLDED="true" ID="ID_211126654" MODIFIED="1286928348849" TEXT="Plano de Marketing">
+<node CREATED="1286928238386" ID="ID_248677888" MODIFIED="1286928242182" TEXT="Estrat&#xe9;gia de Vendas"/>
+<node CREATED="1286928246296" ID="ID_1518511278" MODIFIED="1286928252869" TEXT="Diferencial competitivo do Produto"/>
+<node CREATED="1286928255869" ID="ID_161011121" MODIFIED="1286928259202" TEXT="Distribui&#xe7;&#xe3;o"/>
+<node CREATED="1286928261388" ID="ID_352645052" MODIFIED="1286928266810" TEXT="Pol&#xed;tica de Pre&#xe7;os"/>
+<node CREATED="1286928271522" ID="ID_1755439079" MODIFIED="1286928275593" TEXT="Proje&#xe7;&#xe3;o de Vendas"/>
+<node CREATED="1286928280454" ID="ID_868751877" MODIFIED="1286928291716" TEXT="Servi&#xe7;os P&#xf3;s-Venda e Garantias"/>
+</node>
 </node>
 </node>
 </map>
