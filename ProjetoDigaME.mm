@@ -53,7 +53,7 @@
 </node>
 <node CREATED="1286923338205" ID="ID_773247079" MODIFIED="1286923351120" POSITION="right" TEXT="Plano de Neg&#xf3;cios" VSHIFT="10">
 <node CREATED="1286923352593" ID="ID_636751006" MODIFIED="1286928350047" TEXT="Sum&#xe1;rio Executivo">
-<node CREATED="1286923372873" ID="ID_831865101" MODIFIED="1286962815994" TEXT="Enunciado do Projeto">
+<node CREATED="1286923372873" FOLDED="true" ID="ID_831865101" MODIFIED="1286991576876" TEXT="Enunciado do Projeto">
 <node CREATED="1286923481880" ID="ID_1302591273" MODIFIED="1286962976286" TEXT="Vivemos uma &#xe9;poca em que a sociedade busca tratar de forma mais justa todos os indiv&#xed;duos incluindo as pessoas portadoras de necessidades especiais(PNE&#x2019;s). Governo e sociedade est&#xe3;o empenhados em trabalhar de forma conjunta em solu&#xe7;&#xf5;es que caminham no sentido de tornar a intera&#xe7;&#xe3;o dessas pessoas mais independente e acess&#xed;vel. Caminhando nesse mesmo sentido a SEA Tecnologia vem por meio deste plano de neg&#xf3;cios apresentar a os estudos e an&#xe1;lise da cria&#xe7;&#xe3;o de um sistema de reconhecimento de voz apoiado em interpreta&#xe7;&#xe3;o por linguagem natural, ou seja, reconhecimento de voz utilizando comandos humanamente compreens&#xed;veis, e comumente usados em nossa comunica&#xe7;&#xe3;o coloquial. Esse por si s&#xf3; caracteriza-se como um produto inovador que chama a aten&#xe7;&#xe3;o tanto por sua funcionalidade b&#xe1;sica, quanto pelas possibilidades de aplica&#xe7;&#xe3;o e gera&#xe7;&#xe3;o de novos produtos e servi&#xe7;os dentro de diversos tipos de ambientes heterog&#xea;neos.&#xa;&#xa;A estrutura do projeto &#xe9; composta pela equipe de desenvolvimento da SEA Tecnologia, consultores ligados &#xe0; empresa e parceiros respons&#xe1;veis pelas tarefas de produ&#xe7;&#xe3;o do dispositivo f&#xed;sico de reconhecimento de voz e pelos servi&#xe7;os de atendimento ao cliente e marketing.&#xa;&#xa;A clientela alvo desse produto ser&#xe3;o os PNEs que tem a habilidade da fala. Dentro deste nicho podemos atender aos deficientes visuais, pessoas com restri&#xe7;&#xf5;es nos seus movimentos, como cadeirantes, entre outros."/>
 </node>
 <node CREATED="1286923396345" FOLDED="true" ID="ID_1035231979" MODIFIED="1286961627255" TEXT="Empreendedores">
@@ -96,8 +96,8 @@
 <node CREATED="1286923429732" ID="ID_1927459937" MODIFIED="1286923446640" TEXT="Rentabilidade e Proje&#xe7;&#xf5;es financeiras"/>
 <node CREATED="1286923449328" ID="ID_489090038" MODIFIED="1286923460277" TEXT="Necessidades de Financiamento"/>
 </node>
-<node CREATED="1286927950254" ID="ID_1560996658" MODIFIED="1286960912697" TEXT="O Produto/Servi&#xe7;o">
-<node CREATED="1286927972452" ID="ID_983394196" MODIFIED="1286927975426" TEXT="Caracter&#xed;sticas">
+<node CREATED="1286927950254" FOLDED="true" ID="ID_1560996658" MODIFIED="1287050740474" TEXT="O Produto/Servi&#xe7;o">
+<node CREATED="1286927972452" FOLDED="true" ID="ID_983394196" MODIFIED="1286991580643" TEXT="Caracter&#xed;sticas">
 <node CREATED="1286960921385" ID="ID_1414039292" MODIFIED="1286960925189" TEXT="A SEA Tecnologia pretende oferecer um produto agregado a v&#xe1;rias formas de servi&#xe7;o. O Produto consiste em um sistema f&#xed;sico reconhecedor de voz e interpretador de comandos que possa possua interface para comunica&#xe7;&#xe3;o com outros dispositivos diversos, como ve&#xed;culos ou centrais de controle de seguran&#xe7;a.  O Servi&#xe7;o paira sobre as funcionalidades de a&#xe7;&#xe3;o que possam ser integradas no produto, como v&#xed;nculos com sitios de email, sitios de compras/supermercado, &#xf3;rg&#xe3;os de emerg&#xea;ncia e assist&#xea;ncia m&#xe9;dica/hospitalar, servi&#xe7;os de fam&#xe1;cia, alimenta&#xe7;&#xe3;o e entretenimento."/>
 </node>
 <node CREATED="1286927975805" ID="ID_1706903461" MODIFIED="1286927981065" TEXT="Diferencial Tecnol&#xf3;gico"/>
